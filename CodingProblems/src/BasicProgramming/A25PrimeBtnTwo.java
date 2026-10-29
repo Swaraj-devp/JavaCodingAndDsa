@@ -4,7 +4,7 @@ public class A25PrimeBtnTwo {
 
 	public static void main(String[] args) {
 
-		int start = 10;
+		int start = 1;
 
 		int end = 20;
 
