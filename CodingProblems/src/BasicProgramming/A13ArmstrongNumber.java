@@ -4,7 +4,7 @@ public class A13ArmstrongNumber {
 
 	public static void main(String[] args) {
 		
-		int num = 123;
+		int num = 129;
 		
 		int sum  = 0;
 		int original = num;
